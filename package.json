@@ -1,0 +1,20 @@
+{
+  "name": "prisma-enum-manager",
+  "version": "1.0.0",
+  "description": "custom module made 4 prisma enum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgirolami29/prisma-enum-manager"
+  },
+  "keywords": [],
+  "author": "fgirolami29",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgirolami29/prisma-enum-manager/issues"
+  },
+  "homepage": "https://github.com/fgirolami29/prisma-enum-manager"
+}
